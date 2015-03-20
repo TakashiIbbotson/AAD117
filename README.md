@@ -22,6 +22,8 @@ Corporate Identity
 * [Monogram and Wordmark] (https://www.flickr.com/photos/127561032@N03/16805649055/in/album-72157648957003223/)
   
 * [Supportive Work]  (https://www.flickr.com/photos/127561032@N03/sets/72157648957003223/)
- 
+
+* [Research] (https://github.com/TakashiIbbotson/AAD117CorporateBranding/blob/master/README.md)
+* 
 * [Rough Work]  (https://www.flickr.com/photos/127561032@N03/sets/72157650917442169/)
   
