@@ -25,7 +25,7 @@ Corporate Identity
 * [Icon Set]  (https://www.flickr.com/photos/127561032@N03/sets/72157652024571875)
 * [Icon Set Rough Work] (https://www.flickr.com/photos/127561032@N03/sets/72157651124880350)
 
-*[Brand Guidelines] (https://www.flickr.com/photos/127561032@N03/sets/72157652676272591)
+* [Brand Guidelines] (https://www.flickr.com/photos/127561032@N03/sets/72157652676272591)
 
 * [Research] (https://github.com/TakashiIbbotson/AAD117CorporateBranding/blob/master/README.md)
 
