@@ -16,7 +16,7 @@ Personal Identity
 Corporate Identity
 --------------------
   
-* [Visual Identity] (https://www.flickr.com/photos/127561032@N03/16805649055/in/album-72157648957003223/)
+* [Visual Identity] (https://www.flickr.com/photos/127561032@N03/17553282811/in/album-72157648957003223/)
   
 * [Supportive Work]  (https://www.flickr.com/photos/127561032@N03/sets/72157648957003223/)
 
